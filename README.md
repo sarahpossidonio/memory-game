@@ -6,7 +6,7 @@ Projeto para estudos e treinamento Front-End (HTML, CSS e JavaScript).
 
 É um jogo da memória feito com HTML, CSS e JavaScript. 
 
-As imagens utilizadas no projeto são da Amiguinhos do Céu e Leonan Faro, acesse as redes sociais deles para conhecer esse trabalho lindo de evangelização:
+As imagens utilizadas no projeto são da Amiguinhos de Deus e Leonan Faro, acesse as redes sociais deles para conhecer esse trabalho lindo de evangelização:
 https://www.instagram.com/amiguinhosdedeus/
 #
 ### Exercício:
